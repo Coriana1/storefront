@@ -1,11 +1,11 @@
-# Application State with Redux
-## LAB - Class 36
+# Combined Reducers## LAB - Class 37
 ### Author: Coriana Williams
 
 ### Problem Domain# Phase 1 Requirements
 Virtual Store Phase 1: For this assignment, you will be starting the process of creating an e-Commerce storefront using React with Redux, coupled with your live API server.
 
 Phase 2 Requirements
+Continue work on the e-Commerce storefront, breaking up the store into multiple reducers and sharing functionality/data between components.
 
 Phase 3 Requirements
 
@@ -38,5 +38,5 @@ for now I have none and do not require one
 
 #### UML
 ![Phase 1 - Class 36](./assets/lab36UML.png)
-![Phase 2 - Class 37]()
+![Phase 2 - Class 37](./assets/lab37UML.png)
 ![Phase 3 - Class 38]()
